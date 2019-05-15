@@ -12,7 +12,6 @@ namespace BitLyAPI
 {
     public class BitLyAPI
     {
-        //Acess Token BitLy: fbe028c27575adc236f403905ee5882bfd89396d
         private string _bitLyApiURL;
         private string _bitLyApiToken;
 
